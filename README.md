@@ -32,7 +32,7 @@ We then take the responses shared and feed them to a shape parent class, then fu
 
 ## Link to Screencastify Recording
 
-[Click here to view the Screencastify Recording](https://drive.google.com/file/d/1cSI5mPtO-r4NEEHWiIhaXec7ZKLJCPit/view)
+[Click here to view the Screencastify Recording](https://drive.google.com/file/d/1jOlp_Jtj1lNjgaN21XAzGELoyoATuW0J/view)
 
 If you follow this link you can view a video guiding you through this generator.
 
